@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 暗暗那的个人博客
+subtitle: '喜气洋洋过大年'
+description: 选择有时候比努力更重要
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: xiewanqing
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
